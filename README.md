@@ -11,7 +11,7 @@ Make sure to join the discord server if you are looking for the script: https://
 **Best Mega Noob Simulator script, as well as other games.**
 
 
-# Script:**
+# Script:
 ```lua pcall(function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/lolcatbestfan/zenor/main/Games/" .. tostring(game.PlaceId) .. ".luau"))()
 end)
