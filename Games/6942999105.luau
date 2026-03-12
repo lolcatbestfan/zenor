@@ -5,6 +5,7 @@
  ███╔╝  ██╔══╝  ██║╚██╗██║██║   ██║██╔══██╗
 ███████╗███████╗██║ ╚████║╚██████╔╝██║  ██║
 ╚══════╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
+  Game: Mega Noob Simulator: Retro
   Update logs:
   + Added Rejoin
   + Added Server Hop
