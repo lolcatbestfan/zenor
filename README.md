@@ -17,8 +17,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/lolcatbestfan/zenor/m
 end)
 ```
 
-<div>
-
 ## 📖 Overview
 
 Zenor is a project designed for easier and better Roblox experience using Luau. Includes games likes, Mega Noob Simulator, Garden Horizons and more.
