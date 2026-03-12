@@ -1,8 +1,5 @@
 # Project Zenor
 
-<div align="center">
-
-<!-- ![Logo](path-to-logo) TODO: Add project logo -->
 
 This is the only official github for Zenor scripts, this github is only for the scripts.
 
