@@ -5,6 +5,7 @@
  ███╔╝  ██╔══╝  ██║╚██╗██║██║   ██║██╔══██╗
 ███████╗███████╗██║ ╚████║╚██████╔╝██║  ██║
 ╚══════╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
+  Game: Mega Noob Simulator: Main Island
   Update logs:
   + Added Auto boss fight
   + Added Rejoin
