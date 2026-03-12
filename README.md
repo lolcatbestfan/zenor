@@ -13,7 +13,7 @@ Make sure to join the discord server if you are looking for the script: https://
 ** Script: **
 ```pcall(function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/lolcatbestfan/zenor/main/Games/" .. tostring(game.PlaceId) .. ".luau"))()
-end)```
+end)
 ```
 <!-- [Live Demo](https://demo-link.com) TODO: Add live demo link -->
 <!-- [Documentation](https://docs-link.com) TODO: Add documentation link -->
