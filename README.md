@@ -10,13 +10,13 @@ Make sure to join the discord server if you are looking for the script: https://
 
 **Best Mega Noob Simulator script, as well as other games.**
 
+</div>
+
 **Script:**
 ```lua pcall(function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/lolcatbestfan/zenor/main/Games/" .. tostring(game.PlaceId) .. ".luau"))()
 end)
 ```
-<!-- [Live Demo](https://demo-link.com) TODO: Add live demo link -->
-<!-- [Documentation](https://docs-link.com) TODO: Add documentation link -->
 
 </div>
 
