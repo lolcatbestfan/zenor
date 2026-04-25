@@ -5,6 +5,7 @@
  ███╔╝  ██╔══╝  ██║╚██╗██║██║   ██║██╔══██╗
 ███████╗███████╗██║ ╚████║╚██████╔╝██║  ██║
 ╚══════╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
+  Mega Noob Simulator: Space
   Update logs:
   + Added Rejoin
   + Added Server Hop
